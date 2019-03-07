@@ -51,55 +51,34 @@ Output: 621
 
 
 
-
 var romanToInt = function(s) {
-
-	var integer = convert(s);
-	integer = convert(integer);
-	integer = convert(integer);
-	integer = convert(integer);
-    var intArray = integer.split("+");
-
-    console.log(intArray);
-
-   	var sum = 0;
-	for (var i = 1; i < intArray.length; i++) {
-	  sum += parseInt(intArray[i]);
+	var romanArray = s.split("");
+	var sum = 0;
+	for (var i = 0; i < romanArray.length - 1; i++) {
+		var current = convert(romanArray[i]);
+		var next = convert(romanArray[i + 1]);
+		if (current >= next) {
+			sum += current;	
+		}
+		else {
+			sum -= current;
+		}
 	}
-	
+	sum += convert(romanArray[romanArray.length - 1]);
 	return sum;
 };
 
-
 var convert = function(s) {
-
-	    var integer = s.replace("IM", "+999");
-    integer = integer.replace("CM", "+900");
-    integer = integer.replace("M", "+1000");
-
-    integer = integer.replace("ID", "+499");
-    integer = integer.replace("CD", "+400");
-    integer = integer.replace("D", "+500");
-
-    integer = integer.replace("IC", "+99");
-    integer = integer.replace("XC", "+90");
-    integer = integer.replace("C", "+100");
-
-    integer = integer.replace("IL", "+49");
-    integer = integer.replace("XL", "+40");
-    integer = integer.replace("L", "+50");
-
-    integer = integer.replace("IX", "+9");
-    integer = integer.replace("X", "+10");
-
-    integer = integer.replace("IV", "+4");
-    integer = integer.replace("V", "+5");
-    
-    integer = integer.replace("III", "+3");
-    integer = integer.replace("II", "+2");
-    integer = integer.replace("I", "+1");
-
-	return integer;
+	switch(s) {
+		case "I": return 1; break;
+		case "V": return 5; break;
+		case "X": return 10; break;
+		case "L": return 50; break;
+		case "C": return 100; break;
+		case "D": return 500; break;
+		default : return 1000; break;
+	} 
 }
 
-console.log(romanToInt("DCXXXXI"));
+console.log(romanToInt("DCXXI"));
+//console.log(romanToInt("III"));
