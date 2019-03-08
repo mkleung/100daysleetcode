@@ -14,6 +14,11 @@ Example 2:
 
 Input: ["dog","racecar","car"]
 Output: ""
+
+Input: []
+Output: ""
+
+
 Explanation: There is no common prefix among the input strings.
 Note:
 
@@ -22,60 +27,35 @@ All given inputs are in lowercase letters a-z.
 */
 
 
-// var longestCommonPrefix = function(strs) {
-// 	if (strs.length  == 0) { return ""; }
-// 	if (strs.length == 1) { return strs[0]; }
-
-// 	var common = "";
-// 	if (strs[0] == "") {
-// 		return common;
-// 	}
-// 	else {
-// 		var first = strs[0].split("");
-// 	    strs.shift();
-// 	    console.log(strs);
-// 	    for (var i = 0; i < strs.length; i++) {
-// 	    	var wordArray = strs[i].split("");
-	    	
-
-// 	    	if (wordArray[i] === first[i]) {
-// 	    		common = common + wordArray[i];
-// 	    		console.log(common);
-// 	    	}
-// 	    }
-// 	    return common;
-// 	}
-
-// };
-
 var longestCommonPrefix = function(strs) {
-
- 
+	
+	if (strs.length  == 0) { return ""; }
 
 	var first = strs[0];
 	var second = strs.slice(1, strs.length);
-
 	var common = "";
-	
-	if (strs.length == 0) { return common; }
-	if (strs.length == 1) { return first; }
-
-
-
-	for (var i = 0; i < first.length; i++) {
-	
-		for (var j = 0; j < strs.length; j++) {
-			var item = strs[j];
-
-			if (item.charAt(i) == first.charAt(i)){
-				common += first.charAt(i);
-			}
+	var count = 0;
+	while (count < first.length) {
+		count++;
+		var prefix = first.slice(0, count);
+		if (prefixCheck(second, prefix)) {
+			common = prefix;
 		}
 	}
-
-	console.log(common);
-		
-
+	return common;
 }
 
-longestCommonPrefix(["dog","dogman","d"]);
+
+var prefixCheck = function(array, prefix) {
+	var prefixLength = prefix.length;
+	for (var i=0; i < array.length; i++) {
+		var item = array[i];
+		if (item.slice(0, prefixLength) !== prefix) {
+			return false;
+		}
+	}
+	return true;
+}
+
+
+console.log(longestCommonPrefix([]));
