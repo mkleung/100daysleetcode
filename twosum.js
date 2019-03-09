@@ -13,16 +13,40 @@ return [0, 1].
 
 */
 
+
 var twoSum = function(nums, target) {
     var result = [];
+    var hashtable = [];
     for (var i = 0; i < nums.length; i++) {
-        for (var j = i + 1; j < nums.length; j++){
-            if (nums[i] + nums[j] == target) {
-                result.push(i, j);
-            }
+        var item = nums[i];
+        var diff = target - item;
+        if (hashtable[diff] != undefined) {
+            result.push(hashtable[diff], i);
         }
+        hashtable[item] = i;
     }
     return result;
-};
+}
 
-console.log(twoSum([3,2,4], 6));
+twoSum([3,2,4], 6);
+
+// time: 72ms
+
+
+// non hash method
+
+// var twoSum = function(nums, target) {
+//     var result = [];
+//     for (var i = 0; i < nums.length; i++) {
+//         for (var j = i + 1; j < nums.length; j++){
+//             if (nums[i] + nums[j] == target) {
+//                 result.push(i, j);
+//             }
+//         }
+//     }
+//     return result;
+// };
+
+// console.log(twoSum([3,2,4], 6));
+
+// Runtime: 140 ms
