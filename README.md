@@ -6,3 +6,5 @@
 2019-03-06 [roman-to-integer](romantointeger.js) *Reworked*
 2019-03-07 [longest-common-prefix](longestcommonprefix.js)
 2019-03-08 [longest-common-prefix](longestcommonprefix.js) *Reworked*
+2019-03-08 [two-sum](twosum.js)
+2019-03-09 [two-sum](twosum.js) *Reworked*
