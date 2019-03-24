@@ -13,3 +13,4 @@
 2019-03-20 [removeElement](removeElement.js)  
 2019-03-21 [strStr](strStr.js)  
 2019-03-22 [search-insert](searchInsert.js)  
+2019-03-24 [numJewelsInStones](numJewelsInStones.js)  
