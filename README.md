@@ -19,4 +19,5 @@
 2019-03-25 [MorseCode](uniqueMorseRepresentations.js)  
 2019-03-26 [Big Countries](bigCountries.sql)  
 2019-03-26 [repeatedNTimes](repeatedNTimes.js)  
-2019-03-26 [sortedSquares](sortedSquares.js)
+2019-03-26 [sortedSquares](sortedSquares.js)  
+2019-03-27 [sortArrayByParity](sortArrayByParity.js)  
