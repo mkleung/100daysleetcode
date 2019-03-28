@@ -22,3 +22,5 @@
 2019-03-26 [sortedSquares](sortedSquares.js)  
 2019-03-27 [sortArrayByParity](sortArrayByParity.js)  
 2019-03-27 *[flipandInvertImage](flipAndInvertImage.js)  
+2019-03-28 [judgeCircle](judgeCircle.js)  
+2019-03-28 [hammingDistance](hammingDistance.js)  
