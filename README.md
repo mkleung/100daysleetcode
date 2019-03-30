@@ -27,6 +27,7 @@
 2019-03-28 [judgeCircle](judgeCircle.js)  
 2019-03-28 [hammingDistance](hammingDistance.js)  
 2019-03-29 [mergeTrees](mergeTrees.js)  
+2019-03-30 [diStringMatch](diStringMatch.js)  
 
 
 
