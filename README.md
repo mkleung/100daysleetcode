@@ -35,4 +35,5 @@
 
 2019-04-02 	[minDeletionSize](minDeletionSize.js)  
 			[source](https://leetcode.com/problems/delete-columns-to-make-sorted/)  
-2019-04-03  [selfDividingNumbers.js](selfDividingNumbers.js)  [source](https://leetcode.com/problems/self-dividing-numbers/)
+2019-04-03  [selfDividingNumbers.js](selfDividingNumbers.js)  [source](https://leetcode.com/problems/self-dividing-numbers/)  
+2019-04-03	[peakIndexInMountainArray.js](peakIndexInMountainArray.js)  [source](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  
