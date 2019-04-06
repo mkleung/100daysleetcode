@@ -38,3 +38,4 @@
 2019-04-03  [selfDividingNumbers.js](selfDividingNumbers.js)  [source](https://leetcode.com/problems/self-dividing-numbers/)  
 2019-04-03	[peakIndexInMountainArray.js](peakIndexInMountainArray.js)  [source](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  
 2019-04-04 [arrayPairSum](arrayPairSum.js) [source](https://leetcode.com/problems/array-partition-i/)  
+2019-04-06 [recentCounter](recentCounter.js) [source](https://leetcode.com/problems/number-of-recent-calls/) *Incomplete*    

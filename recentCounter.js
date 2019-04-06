@@ -1,0 +1,36 @@
+/*
+https://leetcode.com/problems/number-of-recent-calls/
+*/
+
+var RecentCounter = function() {
+    this.pings = [];
+};
+
+/** 
+ * @param {number} t
+ * @return {number}
+ */
+RecentCounter.prototype.ping = function(t) {
+   for (var i = 0; i < t.length; i++) {
+        this.pings.push(t[i][0]);
+        if (this.pings[0] < t - 3000) {
+        	this.pings.shift();
+        } 
+    }
+  	return this.pings.length;
+
+
+ //  	this.pings.push(t)
+	// while(this.pings[0] < t - 3000) this.pings.shift()
+	// return this.pings.length
+};
+
+/** 
+ * Your RecentCounter object will be instantiated and called as such:
+ * var obj = new RecentCounter()
+ * var param_1 = obj.ping(t)
+ */
+var t = [[],[1],[100],[3001],[3002]];
+var obj = new RecentCounter()
+var param_1 = obj.ping(t)
+console.log(param_1);
