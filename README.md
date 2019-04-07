@@ -33,9 +33,9 @@
 
 ### April 2019
 
-2019-04-02 	[minDeletionSize](minDeletionSize.js)  
-			[source](https://leetcode.com/problems/delete-columns-to-make-sorted/)  
-2019-04-03  [selfDividingNumbers.js](selfDividingNumbers.js)  [source](https://leetcode.com/problems/self-dividing-numbers/)  
-2019-04-03	[peakIndexInMountainArray.js](peakIndexInMountainArray.js)  [source](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  
+2019-04-02 [minDeletionSize](minDeletionSize.js) [source](https://leetcode.com/problems/delete-columns-to-make-sorted/)  
+2019-04-03 [selfDividingNumbers.js](selfDividingNumbers.js)  [source](https://leetcode.com/problems/self-dividing-numbers/)  
+2019-04-03 [peakIndexInMountainArray.js](peakIndexInMountainArray.js)  [source](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  
 2019-04-04 [arrayPairSum](arrayPairSum.js) [source](https://leetcode.com/problems/array-partition-i/)  
-2019-04-06 [recentCounter](recentCounter.js) [source](https://leetcode.com/problems/number-of-recent-calls/) *Incomplete*    
+2019-04-06 [recentCounter](recentCounter.js) [source](https://leetcode.com/problems/number-of-recent-calls/) *Incomplete*  
+2019-04-07 [swapSalary](swapSalaries.sql) [source](https://leetcode.com/problems/swap-salary/)  
