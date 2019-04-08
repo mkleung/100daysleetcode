@@ -39,3 +39,4 @@
 2019-04-04 [arrayPairSum](arrayPairSum.js) [source](https://leetcode.com/problems/array-partition-i/)  
 2019-04-06 [recentCounter](recentCounter.js) [source](https://leetcode.com/problems/number-of-recent-calls/) *Incomplete*  
 2019-04-07 [swapSalary](swapSalaries.sql) [source](https://leetcode.com/problems/swap-salary/)  
+2019-04-08 [fibonacci](fibonacci.js) [source](https://leetcode.com/problems/fibonacci-number/)  
