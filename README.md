@@ -40,4 +40,5 @@
 2019-04-06 [recentCounter](recentCounter.js) [source](https://leetcode.com/problems/number-of-recent-calls/) *Incomplete*  
 2019-04-07 [swapSalary](swapSalaries.sql) [source](https://leetcode.com/problems/swap-salary/)  
 2019-04-08 [fibonacci](fibonacci.js) [source](https://leetcode.com/problems/fibonacci-number/)  
-2019-04-08 [fizzbuzz.js](fizzbuzz.js)
+2019-04-08 [fizzbuzz](fizzbuzz.js)  
+2019-04-09 [removeOuterParentheses](removeOuterParentheses.js) [source](https://leetcode.com/problems/remove-outermost-parentheses/)
