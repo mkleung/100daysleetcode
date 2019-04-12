@@ -6,16 +6,28 @@
  */
 var commonChars = function(A) {
     var first = A[0].split("");
+
     var result = [];
   	for (var i = 0; i < first.length; i++) {
-  		var count = 0;
+  		var exists = true;
+
   		for (var j = 1; j < A.length; j++) {
-  			console.log(first[i] + " " + A[j].indexOf(first[i]));
-  			if (A[j].indexOf(first[i]) >= 0) {
-  				count++;
+
+  			if (A[j].indexOf(first[i]) < 0) {
+  				exists = false;
   			}
   		}
-  		console.log("//////" + count)
+  		
+  		if (exists) {
+  			result.push(first[i]);
+
+	  		for (var j = 1; j < A.length; j++) {
+
+	  			var temp = A[j].replace(first[i], "");
+	  			A[j] = temp;
+	  		}
+
+  		}
   		
   	}
 
@@ -23,4 +35,5 @@ var commonChars = function(A) {
 
 };
 
+console.log(commonChars(["bella","label","roller"]));
 console.log(commonChars(["cool","lock","cook"]));
