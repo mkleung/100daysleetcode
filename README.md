@@ -42,4 +42,5 @@
 2019-04-08 [fibonacci](fibonacci.js) [source](https://leetcode.com/problems/fibonacci-number/)  
 2019-04-08 [fizzbuzz](fizzbuzz.js)  
 2019-04-09 [removeOuterParentheses](removeOuterParentheses.js) [source](https://leetcode.com/problems/remove-outermost-parentheses/)  *Incomplete*  
-2019-04-11 [commonChars](commonChars.js) [source](https://leetcode.com/problems/find-common-characters/)  **INCOMPLETE**
+2019-04-11 [commonChars](commonChars.js) [source](https://leetcode.com/problems/find-common-characters/)  **HARD**  
+2019-04-13 [subdomainVisits](subdomainVisits.js) [source](https://leetcode.com/problems/subdomain-visit-count/)  
