@@ -45,4 +45,5 @@
 2019-04-11 [commonChars](commonChars.js) [source](https://leetcode.com/problems/find-common-characters/)  **HARD**  
 2019-04-13 [subdomainVisits](subdomainVisits.js) [source](https://leetcode.com/problems/subdomain-visit-count/)  
 2019-04-17 [reverseWords](reveseWords.js) [source](https://leetcode.com/problems/reverse-words-in-a-string-iii/submissions/)  
-2019-04-18 [reverseString](reverseString.js) [source](https://leetcode.com/problems/reverse-string/)
+2019-04-18 [reverseString](reverseString.js) [source](https://leetcode.com/problems/reverse-string/)  
+2019-04-20 [findComplement](findComplement.js) [source](https://leetcode.com/problems/number-complement/submissions/)  
