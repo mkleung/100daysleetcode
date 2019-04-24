@@ -47,5 +47,35 @@
 2019-04-17 [reverseWords](reveseWords.js) [source](https://leetcode.com/problems/reverse-words-in-a-string-iii/submissions/)  
 2019-04-18 [reverseString](reverseString.js) [source](https://leetcode.com/problems/reverse-string/)  
 2019-04-20 [findComplement](findComplement.js) [source](https://leetcode.com/problems/number-complement/submissions/)  
-2019-02-22 [findWordsKeyboardRow](findWords.js) [source](https://leetcode.com/problems/keyboard-row/submissions/)  
-2019-02-23 [shortestToChar](shortestToChar.js) [source](https://leetcode.com/problems/shortest-distance-to-a-character/)  
+2019-04-22 [findWordsKeyboardRow](findWords.js) [source](https://leetcode.com/problems/keyboard-row/submissions/)  
+2019-04-23 [shortestToChar](shortestToChar.js) [source](https://leetcode.com/problems/shortest-distance-to-a-character/)  
+2019-04-24 [numJewelsInStones](numJewelsInStones.js) [source](https://leetcode.com/problems/jewels-and-stones/) *Reworked*  
+
+
+
+
+
+
+
+# NOTES
+
+### Javascript Hashtables
+
+```
+var hash = {}
+hash[key] = value
+
+// loop through hashtable
+Object.keys(hash).forEach(function (key) { 
+    var value = hash[key]
+})
+
+
+// check if key exists
+ if (hashTable[item] != undefined) {
+
+ }
+
+// Increment value in hashtable
+hash[key] = (hash[key]+1) || 1 ;
+```
