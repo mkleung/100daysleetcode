@@ -50,7 +50,7 @@
 2019-04-22 [findWordsKeyboardRow](findWords.js) [source](https://leetcode.com/problems/keyboard-row/submissions/)  
 2019-04-23 [shortestToChar](shortestToChar.js) [source](https://leetcode.com/problems/shortest-distance-to-a-character/)  
 2019-04-24 [numJewelsInStones](numJewelsInStones.js) [source](https://leetcode.com/problems/jewels-and-stones/) *Reworked*  
-
+2019-04-25 [thirdMax](thirdMax.js)[source](https://leetcode.com/problems/third-maximum-number/submissions/)  *HARDEST*  
 
 
 
