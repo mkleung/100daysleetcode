@@ -51,7 +51,7 @@
 2019-04-23 [shortestToChar](shortestToChar.js) [source](https://leetcode.com/problems/shortest-distance-to-a-character/)  
 2019-04-24 [numJewelsInStones](numJewelsInStones.js) [source](https://leetcode.com/problems/jewels-and-stones/) *Reworked*  
 2019-04-25 [thirdMax](thirdMax.js)[source](https://leetcode.com/problems/third-maximum-number/submissions/)  *HARDEST*  
-
+2019-04-27 [validPalindrome](validPalindrome.js) [source](https://leetcode.com/problems/valid-palindrome-ii/solution/)  
 
 
 
