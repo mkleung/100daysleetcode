@@ -7,14 +7,14 @@ LeetCode
 
 ### March 2019
 
-| # | Title | Solution | Date | Youtube Link |
-|---| ----- | -------- | -----| ------------ |
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Javascript](reverse-integer.js)| 2019-03-05 | |
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Javascript](palindrome.js)| 2019-03-06 | |
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Javascript](romantointeger.js)| 2019-03-06 | |
-|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Javascript](longestcommonprefix.js)| 2016-03-7 | |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Javascript](twosum.js)| 2019-03-09 | |
-|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Javascript](mergetwolists.js)| 2019-03-10 | |
+| # | Title | Solution | Date | Category | Youtube Link |
+|---| ----- | -------- | ---- | -------- | ------------ |
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Javascript](reverse-integer.js)| 2019-03-05 | String | |
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Javascript](palindrome.js)| 2019-03-06 | String | |
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Javascript](romantointeger.js)| 2019-03-06 | String | |
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Javascript](longestcommonprefix.js)| 2016-03-07 | Strings | |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Javascript](twosum.js)| 2019-03-09 | Strings | |
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Javascript](mergetwolists.js)| 2019-03-10 | Tree | |
 
 
 
