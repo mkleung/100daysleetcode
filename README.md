@@ -62,9 +62,10 @@ https://www.youtube.com/watch?v=N5kjheu-pAk
 
 
 
-# NOTES
+NOTES
+=========
 
-### Javascript Hashtables
+# Javascript Hashtables
 
 ```
 var hash = {}
@@ -86,16 +87,16 @@ hash[key] = (hash[key]+1) || 1 ;
 ```
 
 
-### Bit Manipulation
+# Bit Manipulation
 
-# Convert number to binary
+### Convert number to binary
 
 ```
 var binary = parseInt(num, 10);
 var binaryNum = binary.toString(2);
 ```
 
-# Convert binary to number
+### Convert binary to number
 ```
 var digit = parseInt(binary, 2);
 ```
