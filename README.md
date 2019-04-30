@@ -29,15 +29,8 @@ LeetCode
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Javascript](javascript/flipAndInvertImage.js)| 2019-03-27 | Array | |
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Javascript](javascript/judgeCircle.js)| 2019-03-28 | Bit manipulation | |
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Javascript](javascript/hammingDistance.js)| 2019-03-28 | Array | |
-|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Javascript](javascript/hammingDistance.js)| 2019-03-28 | Array | |
-
-
-# Easy
-
-### March 2019
-
-2019-03-29 [mergeTrees](mergeTrees.js)  
-2019-03-30 [diStringMatch](diStringMatch.js)  
+|647|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Javascript](javascript/mergeTrees.js)| 2019-03-29 | Tree | |
+|942|[DI String Match](https://leetcode.com/problems/di-string-match/) | [Javascript](javascript/diStringMatch.js)| 2019-03-30 | Math | |
 
 
 
@@ -88,4 +81,19 @@ Object.keys(hash).forEach(function (key) {
 
 // Increment value in hashtable
 hash[key] = (hash[key]+1) || 1 ;
+```
+
+
+### Bit Manipulation
+
+# Convert number to binary
+
+```
+var binary = parseInt(num, 10);
+var binaryNum = binary.toString(2);
+```
+
+# Convert binary to number
+```
+var digit = parseInt(binary, 2);
 ```
