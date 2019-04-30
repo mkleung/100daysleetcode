@@ -24,7 +24,7 @@ LeetCode
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Javascript](javascript/numUniqueEmails.js)| 2019-03-25 | string | |
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Javascript](javascript/uniqueMorseRepresentations.js)| 2019-03-25 | string | |
 |595|[Big Countries](https://leetcode.com/problems/big-countries/) | [sql](sql/bigCountries.sql)| 2019-03-26 | sql | |
-|961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Javascript](javascript/repeatedNTimes.js)| 2019-03-26 | | |
+|961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Javascript](javascript/repeatedNTimes.js)| 2019-03-26 | HashTable | |
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Javascript](javascript/sortArrayByParity.js)| 2019-03-27 | Array | |
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Javascript](javascript/flipAndInvertImage.js)| 2019-03-27 | Array | |
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Javascript](javascript/judgeCircle.js)| 2019-03-28 | Bit manipulation | |
@@ -38,7 +38,8 @@ LeetCode
 
 2019-04-02 [minDeletionSize](minDeletionSize.js) [source](https://leetcode.com/problems/delete-columns-to-make-sorted/)  
 2019-04-03 [selfDividingNumbers.js](selfDividingNumbers.js)  [source](https://leetcode.com/problems/self-dividing-numbers/)  
-2019-04-03 [peakIndexInMountainArray.js](peakIndexInMountainArray.js)  [source](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  
+2019-04-03 [peakIndexInMountainArray.js](peakIndexInMountainArray.js)  [source](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+https://www.youtube.com/watch?v=8IsRt4Jcc44&t=14s  
 2019-04-04 [arrayPairSum](arrayPairSum.js) [source](https://leetcode.com/problems/array-partition-i/)  
 2019-04-06 [recentCounter](recentCounter.js) [source](https://leetcode.com/problems/number-of-recent-calls/) *Incomplete*  
 2019-04-07 [swapSalary](swapSalaries.sql) [source](https://leetcode.com/problems/swap-salary/)  
@@ -53,6 +54,7 @@ LeetCode
 2019-04-22 [findWordsKeyboardRow](findWords.js) [source](https://leetcode.com/problems/keyboard-row/submissions/)  
 2019-04-23 [shortestToChar](shortestToChar.js) [source](https://leetcode.com/problems/shortest-distance-to-a-character/)  
 2019-04-24 [numJewelsInStones](numJewelsInStones.js) [source](https://leetcode.com/problems/jewels-and-stones/) *Reworked*  
+https://www.youtube.com/watch?v=N5kjheu-pAk
 2019-04-25 [thirdMax](thirdMax.js)[source](https://leetcode.com/problems/third-maximum-number/submissions/)  *HARDEST*  
 2019-04-27 [validPalindrome](validPalindrome.js) [source](https://leetcode.com/problems/valid-palindrome-ii/solution/)  
 
