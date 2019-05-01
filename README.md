@@ -31,7 +31,7 @@ LeetCode
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/) | [Javascript](js/diStringMatch.js)| 2019-03-30 | Math | |
 || | | | | |
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [Javascript](js/singleNumber.js)| 2019-04-30 | Math | |
-
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Javascript](js/merge.js)| 2019-05-01 | Arrays | |
 
 
 ### April 2019
