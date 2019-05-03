@@ -32,6 +32,7 @@ LeetCode
 || | | | | |
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [Javascript](js/singleNumber.js)| 2019-04-30 | Math | |
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Javascript](js/merge.js)| 2019-05-01 | Arrays | |
+|258|[Add Digits](https://leetcode.com/problems/add-digits/) | [Javascript](js/addDigits.js)| 2019-05-03 | Math | |
 
 
 ### April 2019
