@@ -73,9 +73,9 @@ https://www.youtube.com/watch?v=N5kjheu-pAk
 | # | Title | Solution | Date | Category | Youtube Link |
 |---| ----- | -------- | ---- | -------- | ------------ |
 |   | Recursive Palindrome | [Javascript](recursion/isPalindrome.js)| 2019-05-10 | Recursion | |
-|   | validAnagram | [Javascript](algorithms/patterns/frequencyCounter.js)| 2019-05-15 | Frequency Counter | |
-|   | sameFrequency | [Javascript](algorithms/patterns/sameFrequency.js)| 2019-05-15 | Frequency Counter | |
-
+|   | validAnagram | [Javascript](algorithms/patterns/frequencyCounter/frequencyCounter.js)| 2019-05-15 | Frequency Counter | |
+|   | sameFrequency | [Javascript](algorithms/patterns/frequencyCounter/sameFrequency.js)| 2019-05-15 | Frequency Counter | |
+|   | sumZero | [Javascript](algorithms/patterns/multiplePointers/sumZero.js)| 2019-05-15 | MultiplePointers | |
 
 NOTES
 =========
