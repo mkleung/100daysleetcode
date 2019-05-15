@@ -60,7 +60,20 @@ https://www.youtube.com/watch?v=N5kjheu-pAk
 2019-04-27 [validPalindrome](validPalindrome.js) [source](https://leetcode.com/problems/valid-palindrome-ii/solution/)  
 
 
+### May 2019
 
+
+
+
+
+
+
+### Algorithms
+
+| # | Title | Solution | Date | Category | Youtube Link |
+|---| ----- | -------- | ---- | -------- | ------------ |
+|   | Recursive Palindrome | [Javascript](recursion/isPalindrome.js)| 2019-05-10 | Recursion | |
+|   | validAnagram | [Javascript](algorithms/patterns/frequencyCounter.js)| 2019-05-15 | Frequency Counter | |
 
 
 NOTES
