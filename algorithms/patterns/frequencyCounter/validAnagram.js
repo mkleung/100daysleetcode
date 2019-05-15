@@ -12,6 +12,9 @@ formed from iceman
 // validAnagram('querty', 'qeywrt') true 
 
 function validAnagram(str1, str2) {
+    if (str1.length !== str2.length) {
+        return false;
+    }
     var arr1 = str1.split("");
     var arr2 = str2.split("");
     var a = {};
@@ -25,14 +28,10 @@ function validAnagram(str1, str2) {
 
     // Check if two objects are equivalent
     var aProps = Object.keys(a);
-    var bProps = Object.keys(b);
     for (var itemA of aProps) {
         if (a[itemA] !== b[itemA]) {
             return false;
         }
-    }
-    if (a.length !== b.length) {
-        return false;
     }
     return true;
 }
