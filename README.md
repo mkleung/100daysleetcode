@@ -77,7 +77,7 @@ https://www.youtube.com/watch?v=N5kjheu-pAk
 |   | sameFrequency | [Javascript](algorithms/patterns/frequencyCounter/sameFrequency.js)| 2019-05-15 | Frequency Counter | |
 |   | sumZero | [Javascript](algorithms/patterns/multiplePointers/sumZero.js)| 2019-05-15 | MultiplePointers | |
 |   | countUniqueValues | [Javascript](algorithms/patterns/multiplePointers/countUniqueValues.js)| 2019-05-16 | MultiplePointers | |
-
+|   | maxSubarraySum | [Javascript](algorithms/patterns/slidingWindow/maxSubarraySum.js)| 2019-05-16 | SlidingWindow | |
 
 
 
