@@ -64,27 +64,6 @@ https://www.youtube.com/watch?v=N5kjheu-pAk
 
 
 
-
-
-
-
-### Algorithms
-
-| # | Title | Solution | Date | Category | Youtube Link |
-|---| ----- | -------- | ---- | -------- | ------------ |
-|   | Recursive Palindrome | [Javascript](recursion/isPalindrome.js)| 2019-05-10 | Recursion | |
-|   | validAnagram | [Javascript](algorithms/patterns/frequencyCounter/frequencyCounter.js)| 2019-05-15 | Frequency Counter | |
-|   | sameFrequency | [Javascript](algorithms/patterns/frequencyCounter/sameFrequency.js)| 2019-05-15 | Frequency Counter | |
-|   | sumZero | [Javascript](algorithms/patterns/multiplePointers/sumZero.js)| 2019-05-15 | MultiplePointers | |
-|   | countUniqueValues | [Javascript](algorithms/patterns/multiplePointers/countUniqueValues.js)| 2019-05-16 | MultiplePointers | |
-|   | maxSubarraySum | [Javascript](algorithms/patterns/slidingWindow/maxSubarraySum.js)| 2019-05-16 | SlidingWindow | |
-|   | areThereduplicates | [Javascript](algorithms/patterns/frequencyCounter/areThereDuplicates.js)| 2019-05-17 | frequencyCounter | |
-
-
-
-
-
-
 NOTES
 =========
 
