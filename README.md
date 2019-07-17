@@ -68,6 +68,14 @@ LeetCode
 |258|[Add Digits](https://leetcode.com/problems/add-digits/) | [Javascript](js/addDigits.js)| 2019-05-03 | Math | |
 
 
+### July 2019
+
+| # | Title | Solution | Date | Category | Youtube Link |
+|---| ----- | -------- | ---- | -------- | ------------ |
+|1051 |[Height Checker](https://leetcode.com/problems/height-checker/) | [Javascript](js/heightChecker.js)| 2019-07-17 | Arrays | |
+
+
+
 NOTES
 =========
 
