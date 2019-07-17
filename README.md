@@ -37,24 +37,24 @@ LeetCode
 
 | # | Title | Solution | Date | Category | Youtube Link |
 |---| ----- | -------- | ---- | -------- | ------------ |
-|944|[minDeletionSize](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Javascript](js/minDeletionSize.js) | 2019-04-02 | | |
-|728|[selfDividingNumbers](https://leetcode.com/problems/self-dividing-numbers/) | [javascript](js/singleNumber.js) |  | 2019-04-03 |  |
-|852|[peakIndexInMountainArray](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Javacript](peakIndexInMountainArray.js) | 2019-04-03 |  |
-|561|[arrayPairSum](https://leetcode.com/problems/array-partition-i/) | [javascript](arrayPairSum.js) | 2019-04-04 |  |
-|933| [recentCounter](https://leetcode.com/problems/number-of-recent-calls/)  | [javascript](recentCounter.js)  | 2019-04-06  |  |
+|944|[minDeletionSize](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Javascript](js/minDeletionSize.js) | 2019-04-02 | Greedy algorithm | |
+|728|[selfDividingNumbers](https://leetcode.com/problems/self-dividing-numbers/) | [javascript](js/singleNumber.js) |  2019-04-03 | Math |
+|852|[peakIndexInMountainArray](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Javacript](peakIndexInMountainArray.js) | 2019-04-03 | Binary Search |
+|561|[arrayPairSum](https://leetcode.com/problems/array-partition-i/) | [javascript](arrayPairSum.js) | 2019-04-04 | Array |
+|933| [recentCounter](https://leetcode.com/problems/number-of-recent-calls/)  | [javascript](recentCounter.js)  | 2019-04-06  | Queue |
 |627| [swapSalary](https://leetcode.com/problems/swap-salary/) | [sql](swapSalaries.sql)   | 2019-04-07  | SQL |  |
 |509| [fibonacci](https://leetcode.com/problems/fibonacci-number/)   | [javascript](fibonacci.js) | 2019-04-08  | Recursion |  |
 |1021| [removeOuterParentheses](https://leetcode.com/problems/remove-outermost-parentheses/)  * | [Javascript](removeOuterParentheses.js) |2019-04-09   | Stack  |  |
 |1002| [commonChars](https://leetcode.com/problems/find-common-characters/)  | [Javascript](commonChars.js) | 2019-04-11 | Hash Table |  |
-|811| [subdomainVisits](https://leetcode.com/problems/subdomain-visit-count/)   |  [Javascript](subdomainVisits.js) |  |2019-04-13 | Hash Table  |
+|811| [subdomainVisits](https://leetcode.com/problems/subdomain-visit-count/) | [Javascript](subdomainVisits.js) | 2019-04-13 | Hash Table  |
 |557| [reverseWords](https://leetcode.com/problems/reverse-words-in-a-string-iii/submissions/)   | [Javascript](reveseWords.js)  | 2019-04-17 | String | |
 |344| [reverseString](https://leetcode.com/problems/reverse-string/) | [Javascript](reverseString.js)   | 2019-04-18   | Two Pointers |  |
 |476| [findComplement](https://leetcode.com/problems/number-complement/submissions/) | [Javascript](findComplement.js)  | 2019-04-20   | Bit manipulation | |
 |500| [findWordsKeyboardRow](https://leetcode.com/problems/keyboard-row/submissions/) |  [Javascript](findWords.js)  | 2019-04-22 | HashTable | |
-|821| [shortestToChar](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Javascript](shortestToChar.js) | 2019-04-23 | |  |
+|821| [shortestToChar](https://leetcode.com/problems/shortest-distance-to-a-character/) *incomplete* | [Javascript](shortestToChar.js) | 2019-04-23 | characters |  |
 |771| [numJewelsInStones](https://leetcode.com/problems/jewels-and-stones/) *Reworked*  | [Javascript](numJewelsInStones.js)   | 2019-04-24 | Hash Table  | |
 |414| [thirdMax](https://leetcode.com/problems/third-maximum-number/submissions/) | [Javascript](thirdMax.js) | 2019-04-25 | Array |  |
-|680| [validPalindrome](https://leetcode.com/problems/valid-palindrome-ii/solution/) |  [Javascript](validPalindrome.js)  | 2019-04-27 |  |  |
+|680| [validPalindrome](https://leetcode.com/problems/valid-palindrome-ii/solution/) |  [Javascript](validPalindrome.js)  | 2019-04-27 | String |  |
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [Javascript](js/singleNumber.js)| 2019-04-30 | Math | |
 
 
