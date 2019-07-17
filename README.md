@@ -37,7 +37,6 @@ LeetCode
 
 | # | Title | Solution | Date | Category | Youtube Link |
 |---| ----- | -------- | ---- | -------- | ------------ |
-
 |944|[minDeletionSize](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Javascript](js/minDeletionSize.js) | 2019-04-02 | | |
 |728|[selfDividingNumbers](https://leetcode.com/problems/self-dividing-numbers/) | [javascript](js/singleNumber.js) |  | 2019-04-03 |  |
 |852|[peakIndexInMountainArray](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Javacript](peakIndexInMountainArray.js) | 2019-04-03 |  |
