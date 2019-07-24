@@ -80,10 +80,10 @@ LeetCode
 
 
 
-### Algorithms
+Algorithms
+==========
 
-Patterns
-========
+###Patterns
 
 | # | Title | Solution | Category | Youtube Link |
 |---| ----- | -------- | -------- | ------------ |
@@ -96,8 +96,7 @@ Patterns
 | 7 | Averagepair | [Javascript](algorithms/patterns/multiplePointers/averagePair.js) | MultiplePointers | |
 
 
-Searching
-========
+###Searching
 
 | # | Title | Solution | Category | Youtube Link |
 |---| ----- | -------- | -------- | ------------ |
@@ -107,8 +106,7 @@ Searching
 
 
 
-Sorting
-========
+###Sorting
 
 | # | Title | Solution | Date | Category | Youtube Link |
 |---| ----- | -------- | ---- | -------- | ------------ |
@@ -118,9 +116,7 @@ Sorting
 | 4 | MergeSort | [Javascript](algorithms/sort/mergeSort.js) | Sort | |
 
 
-Recursion
-=========
-
+###Recursion
 
 | # | Title | Solution | Category | Youtube Link |
 |---| ----- | -------- | -------- | ------------ |
@@ -134,8 +130,7 @@ Recursion
 
 
 
-LinkedList
-========
+###LinkedList
 
 | # | Title | Solution | Date | Category | Youtube Link |
 |---| ----- | -------- | ---- | -------- | ------------ |
@@ -143,8 +138,7 @@ LinkedList
 
 
 
-Tree
-========
+###Tree
 
 | # | Title | Solution | Date | Category | Youtube Link |
 |---| ----- | -------- | ---- | -------- | ------------ |
