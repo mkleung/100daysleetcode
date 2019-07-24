@@ -77,49 +77,75 @@ LeetCode
 |1078 |[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [Javascript](js/findOcurrences.js)| 2019-07-24 | Array | |
 
 
-NOTES
+
+
+
+### Algorithms
+
+Patterns
+========
+
+| # | Title | Solution | Category | Youtube Link |
+|---| ----- | -------- | -------- | ------------ |
+| 1 | validAnagram | [Javascript](algorithms/patterns/frequencyCounter/frequencyCounter.js) | Frequency Counter | |
+| 2 | sameFrequency | [Javascript](algorithms/patterns/frequencyCounter/sameFrequency.js) | Frequency Counter | |
+| 3 | sumZero | [Javascript](algorithms/patterns/multiplePointers/sumZero.js) | MultiplePointers | |
+| 4 | countUniqueValues | [Javascript](algorithms/patterns/multiplePointers/countUniqueValues.js) | MultiplePointers | |
+| 5 | maxSubarraySum | [Javascript](algorithms/patterns/slidingWindow/maxSubarraySum.js) | SlidingWindow | |
+| 6 | areThereDuplicates | [Javascript](algorithms/patterns/frequencyCounter/areThereDuplicates.js) | frequencyCounter | |
+| 7 | Averagepair | [Javascript](algorithms/patterns/multiplePointers/averagePair.js) | MultiplePointers | |
+
+
+Searching
+========
+
+| # | Title | Solution | Category | Youtube Link |
+|---| ----- | -------- | -------- | ------------ |
+| 1 | binarySearch | [Javascript](algorithms/search/binarySearch.js) | Search | |
+| 2 | naiveSearch | [Javascript](algorithms/search/naiveSearch.js) | Search | |
+| 3 | knuthMorrisPrattSearch | | | Search | |
+
+
+
+Sorting
+========
+
+| # | Title | Solution | Date | Category | Youtube Link |
+|---| ----- | -------- | ---- | -------- | ------------ |
+| 1 | bubbleSort | [Javascript](algorithms/sort/bubbleSort.js) | Sort | |
+| 2 | SelectionSort | [Javascript](algorithms/sort/selectionSort.js) | Sort | |
+| 3 | InsertionSort | [Javascript](algorithms/sort/insertionSort.js) | Sort | |
+| 4 | MergeSort | [Javascript](algorithms/sort/mergeSort.js) | Sort | |
+
+
+Recursion
 =========
 
-# Javascript Hashtables
 
-```
-var hash = {}
-hash[key] = value
-
-// check if key exists
-if (hashTable[item] != undefined) {
-}
-
-// loop through hashtable
-Object.keys(hash).forEach(function (key) { 
-    var value = hash[key]
-})
-```
-OR
-
-```
-for  (var key in hashTable) {
-    console.log(key + " " + hashTable[key]);
-}
-```
+| # | Title | Solution | Category | Youtube Link |
+|---| ----- | -------- | -------- | ------------ |
+| 1 | Factorial | [Javascript](algorithms/recursion/factorial.js)| Recursion | |
+| 2 | Fibonacci | [Javascript](algorithms/recursion/fibonacci.js)| Recursion | |
+| 3 | isPalindrome | [Javascript](algorithms/recursion/isPalindrome.js)| Recursion | |
+| 4 | power | [Javascript](algorithms/recursion/power.js) | Recursion | |
+| 5 | productOfArray | [Javascript](algorithms/recursion/productOfArray.js)| Recursion | |
+| 6 | recursiveRange | [Javascript](algorithms/recursion/recursiveRange.js)| Recursion | |
+| 7 | recrusiveReverse | [Javascript](algorithms/recursion/recursiveReverse.js) | Recursion | |
 
 
-```
-// Increment value in hashtable
-hash[key] = (hash[key]+1) || 1 ;
-```
+
+LinkedList
+========
+
+| # | Title | Solution | Date | Category | Youtube Link |
+|---| ----- | -------- | ---- | -------- | ------------ |
+| 1 | singleLinkedList | [Javascript](algorithms/linkedlist/singleLinkedList.js) | linked list | |
 
 
-# Bit Manipulation
 
-### Convert number to binary
+Tree
+========
 
-```
-var binary = parseInt(num, 10);
-var binaryNum = binary.toString(2);
-```
-
-### Convert binary to number
-```
-var digit = parseInt(binary, 2);
-```
+| # | Title | Solution | Date | Category | Youtube Link |
+|---| ----- | -------- | ---- | -------- | ------------ |
+| 1 | binarySearchTree | [Javascript](algorithms/trees/binarySearchTree.js) | tree | |
