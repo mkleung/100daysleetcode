@@ -73,8 +73,8 @@ LeetCode
 |---| ----- | -------- | ---- | -------- | ------------ |
 |1051 |[Height Checker](https://leetcode.com/problems/height-checker/) | [Javascript](js/heightChecker.js)| 2019-07-17 | Arrays | |
 |535 |[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Javascript](js/encodeDecode.js)| 2019-07-19 | Hash Table | |
-|1122 |[Relative Sort ArrayL](https://leetcode.com/problems/relative-sort-array/) | [Javascript](js/relativeSortArray.js)| 2019-07-23 | Sort | |
-
+|1122 |[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Javascript](js/relativeSortArray.js)| 2019-07-23 | Sort | |
+|1078 |[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [Javascript](js/findOcurrences.js)| 2019-07-24 | Array | |
 
 
 NOTES
