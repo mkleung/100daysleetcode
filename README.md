@@ -75,7 +75,7 @@ LeetCode
 |535 |[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Javascript](js/encodeDecode.js)| 2019-07-19 | Hash Table | |
 |1122 |[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Javascript](js/relativeSortArray.js)| 2019-07-23 | Sort | |
 |1078 |[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [Javascript](js/findOcurrences.js)| 2019-07-24 | Array | |
-
+|419 |[Battleships on a Board](https://leetcode.com/problems/battleships-in-a-board/) | [Javascript](js/countBattlesips.js)| 2019-07-25 | Array | |
 
 
 
